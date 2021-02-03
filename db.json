@@ -1,0 +1,30 @@
+[
+  {
+    "fip": 1,
+    "inccat": 1,
+    "similar": 10,
+    "below": 50,
+    "above": 40
+  },
+  {
+    "fip": 1,
+    "inccat": 2,
+    "similar": 10,
+    "below": 20,
+    "above": 70
+  },
+  {
+    "fip": 2,
+    "inccat": 1,
+    "similar": 20,
+    "below": 70,
+    "above": 10
+  },
+  {
+    "fip": 2,
+    "inccat": 2,
+    "similar": 20,
+    "below": 10,
+    "above": 70
+  }
+]
