@@ -36,5 +36,14 @@
             "below": "22",
             "above": "70"
         }
+        {
+            "statefip": "0",
+            "inc": "4",
+            "floor": "30000",
+            "ceiling": "40000",
+            "rshare": "8",
+            "below": "22",
+            "above": "72"
+        }
     ]
 }
